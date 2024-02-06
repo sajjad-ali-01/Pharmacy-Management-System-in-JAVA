@@ -29,7 +29,7 @@ The system utilizes MySQL database with the following tables:
 ## Screenshots
 
 ### Admin Panel
-![Admin Panel](admin_panel_screenshot.png)
+![Admin Panel](https://github.com/yourusername/pharmacy-management-system/blob/main/images/Admin.png)
 
 ### Pharmacist Panel
 ![Pharmacist Panel](pharmacist_panel_screenshot.png)
