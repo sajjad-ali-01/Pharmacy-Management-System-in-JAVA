@@ -29,7 +29,8 @@ The system utilizes MySQL database with the following tables:
 ## Screenshots
 
 ### Admin Panel
-![Admin Panel](https://github.com/sajjad-ali-01/Pharmacy-Management-System//images/Admin.png)
+![Admin Panel](https://raw.githubusercontent.com/sajjad-ali-01/pharmacy-management-system/main/images/Admin.png)
+
 
 ### Pharmacist Panel
 ![Pharmacist Panel](pharmacist_panel_screenshot.png)
