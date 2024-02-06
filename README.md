@@ -29,7 +29,13 @@ The system utilizes MySQL database with the following tables:
 ## Screenshots
 
 ### Admin Panel
-![Admin Panel](https://raw.githubusercontent.com/sajjad-ali-01/pharmacy-management-system/main/images/Admin.png)
+![login](https://github.com/sajjad-ali-01/Pharmacy-Management-System-in-JAVA/assets/115862736/5e0fad3b-1b08-4e09-b69f-cebee65ef0fa)
+![Admin](https://github.com/sajjad-ali-01/Pharmacy-Management-System-in-JAVA/assets/115862736/3a3ac21d-5097-4d36-ba20-a236771afd19)
+![View Bills](https://github.com/sajjad-ali-01/Pharmacy-Management-System-in-JAVA/assets/115862736/7322572d-2cc0-4175-ae93-e77b360edb5a)
+![Update user](https://github.com/sajjad-ali-01/Pharmacy-Management-System-in-JAVA/assets/115862736/ab4329f2-8c67-4e49-842c-6769e77d05df)
+![Add user](https://github.com/sajjad-ali-01/Pharmacy-Management-System-in-JAVA/assets/115862736/d8cdd91e-75ed-4a36-abf6-f1ebeb3c8db2)
+![Logout](https://github.com/sajjad-ali-01/Pharmacy-Management-System-in-JAVA/assets/115862736/65d6b69c-6f27-4d7c-b655-4d5ebf7a793e)
+![View user](https://github.com/sajjad-ali-01/Pharmacy-Management-System-in-JAVA/assets/115862736/97a4e594-b5b4-4f98-9e4b-88eec13ce833)
 
 
 ### Pharmacist Panel
